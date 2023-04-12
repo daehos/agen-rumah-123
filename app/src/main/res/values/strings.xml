@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">AgenRumah123</string>
+
+    <string name="house_address">Alamat Rumah</string>
+
+    <string-array name="data_harga">
+        <item>Rp.650.000.000</item>
+        <item>Rp.1.250.000.000</item>
+        <item>Rp.800.000.000</item>
+        <item>Rp.700.000.000</item>
+        <item>Rp.2.225.000.000</item>
+        <item>Rp.1.500.0000.000</item>
+        <item>Rp.3.225.000.000</item>
+        <item>Rp.5.225.000.000</item>
+        <item>Rp.2.500.000.000k</item>
+        <item>Rp.2.700.000.000</item>
+    </string-array>
+
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Bang Fiqih</string>
+    <string name="contact_name">Muhamad Fiqih Ikhsan</string>
+    <string name="my_email">m.fiqihikhsan@gmail.com</string>
+    <string name="buy">Beli</string>
+    <string name="profile">Profile</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="description">Deskripsi</string>
+    <string name="hubungi_agen">Hubungi Agen</string>
+    <string name="content_text">asu</string>
+    <string name="success">Selamat Anda Punya Rumah!</string>
+    <string name="kembali">Kembali</string>
+    <string name="title_about_detail">Contact Person \n \nInstagram \nLinkedIn \n \nDicoding \n </string>
+    <string name="about_detail">\n \n@mfiqihikhsan \nhttps://www.linkedin.com/in/muhamad-fiqih-ikhsan/  \nhttps://www.dicoding.com/users/kolakdingin/academies </string>
+
+
+    <string-array name="data_name">
+        <item>Grand Tenjo Residence</item>
+        <item>Green Valley Estate</item>
+        <item>Narra Village Tipe 45</item>
+        <item>Cluster Beryl Park Tipe Flat – The Emeralda Resort</item>
+        <item>Hacaca Village Tipe Acacia</item>
+        <item>Cluster Patragriya at Podomoro Park Bandung</item>
+        <item>The Blizfield at BSD City Tipe 9</item>
+        <item>Bukit Podomoro Jakarta Tipe 6</item>
+        <item>The Terrace at Ayodhya Garden Tipe Oak</item>
+        <item>Latinos Business District Tipe 91</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Lokasi : Bogor \nTipe Properti : Residensdensial \nLuas Unit : 29 - 34 meter persegi \nKamar Tidur : 2 </item>
+        <item>Lokasi : Serang \nTipe Properti : Residensdensial \nLuas Unit : 36 meter persegi \nKamar Tidur : 2 </item>
+        <item>Lokasi : Tangerang Selatan \nTipe Properti : Rumah \nLuas Unit : 45 meter persegi \nKamar Tidur : 2 </item>
+        <item>Lokasi : Padalarang \nTipe Properti : Rumah \nLuas Unit : 60 meter persegi \nKamar Tidur : 3 </item>
+        <item>Lokasi : Bekasi \nTipe Properti : Rumah \nLuas Unit : 36 meter persegi \nKamar Tidur : 2 </item>
+        <item>Lokasi : Bandung \nTipe Properti : Rumah \nLuas Unit : 43 meter persegi \nKamar Tidur : 2 </item>
+        <item>Lokasi : Tangerang \nTipe Properti : Rumah \nLuas Unit : 177 meter persegi \nKamar Tidur : 4 </item>
+        <item>Lokasi : Tangerang \nTipe Properti : Rumah \nLuas Unit : 63 meter persegi \nKamar Tidur : 2 </item>
+        <item>Lokasi : Jakarta Timur \nTipe Properti : Rumah \nLuas Unit : 146 meter persegi \nKamar Tidur : 3 </item>
+        <item>Lokasi : Tangerang Selatan \nTipe Properti : Rumah \nLuas Unit : 91 meter persegi \nKamar Tidur : 2 </item>
+    </string-array>
+
+    <string-array name="data_desription_detail">
+        <item>Rumah ini merupakan properti residensial yang berlokasi di Bogor, tepatnya di area perumahan yang tenang dan nyaman. Dengan luas unit sekitar 29-34 meter persegi, Rumah ini memiliki 2 kamar tidur yang luas dan nyaman, lengkap dengan tempat tidur, lemari, dan meja rias. </item>
+        <item>Rumah ini terletak di Serang, sebuah kota yang ramai dan berkembang di Provinsi Banten. Properti ini merupakan rumah residensial yang memiliki luas unit sekitar 36 meter persegi dengan 2 kamar tidur yang nyaman.</item>
+        <item>Rumah ini terletak di Tangerang Selatan, sebuah kota berkembang yang memiliki akses mudah ke Jakarta dan berbagai fasilitas umum seperti pusat perbelanjaan, restoran, dan tempat hiburan. Properti ini berupa rumah dengan luas unit sekitar 45 meter persegi, dilengkapi dengan 2 kamar tidur yang nyaman.</item>
+        <item>Rumah ini terletak di Padalarang, sebuah kota kecil yang tenang dan indah di Kabupaten Bandung Barat. Properti ini merupakan rumah dengan luas unit sekitar 60 meter persegi, dilengkapi dengan 3 kamar tidur yang luas dan nyaman.</item>
+        <item>Rumah yang terletak di Bekasi ini memiliki luas unit sekitar 36 meter persegi dan dilengkapi dengan 2 kamar tidur. Meskipun memiliki ukuran yang relatif kecil, rumah ini didesain dengan efisien dan fungsional, sehingga memberikan kenyamanan dan keseimbangan antara ruang pribadi dan ruang bersama.</item>
+        <item>Rumah yang terletak di Bandung ini memiliki luas unit sekitar 43 meter persegi dan dilengkapi dengan 2 kamar tidur. Rumah ini didesain dengan gaya minimalis yang simpel namun elegan, sehingga memberikan kesan modern dan bersih. Kamar tidur dilengkapi dengan tempat tidur yang nyaman dan lemari pakaian, sementara area ruang tamu yang terang dan lapang dilengkapi dengan sofa dan televisi.</item>
+        <item>Rumah yang terletak di Tangerang ini memiliki luas unit sekitar 177 meter persegi dan dilengkapi dengan 4 kamar tidur. Properti ini didesain dengan tampilan yang megah dan elegan, dengan ruangan yang lapang dan penuh cahaya alami. Kamar tidur dilengkapi dengan tempat tidur yang nyaman dan lemari pakaian, sementara area ruang tamu yang terbuka menghadap ke taman belakang memberikan suasana yang menyegarkan.</item>
+        <item>Rumah yang terletak di Tangerang ini memiliki luas unit sekitar 63 meter persegi dan dilengkapi dengan 2 kamar tidur. Rumah ini didesain dengan gaya modern yang simpel dan minimalis, dengan sentuhan warna yang cerah dan aksen kayu yang memberikan kesan hangat dan ramah. Kamar tidur dilengkapi dengan tempat tidur yang nyaman dan lemari pakaian, sementara ruang tamu dan ruang makan yang terpisah menawarkan ruang yang nyaman untuk bersantai dan berkumpul bersama keluarga.</item>
+        <item>Rumah yang terletak di Jakarta Timur ini memiliki luas unit sekitar 146 meter persegi dan dilengkapi dengan 3 kamar tidur. Rumah ini didesain dengan gaya modern yang elegan dan minimalis, dengan perpaduan warna yang menarik dan material yang berkualitas. Kamar tidur dilengkapi dengan tempat tidur yang nyaman dan lemari pakaian, sementara area ruang tamu dan ruang keluarga yang luas memberikan ruang yang nyaman untuk berkumpul bersama keluarga.</item>
+        <item>Rumah yang terletak di Tangerang Selatan ini memiliki luas unit sekitar 91 meter persegi dan dilengkapi dengan 2 kamar tidur. Rumah ini didesain dengan gaya modern yang simpel dan minimalis, dengan sentuhan warna netral dan aksen kayu yang memberikan kesan hangat dan alami. Kamar tidur dilengkapi dengan tempat tidur yang nyaman dan lemari pakaian, sementara area ruang tamu yang terbuka menghadap ke taman belakang memberikan suasana yang menyenangkan.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/rumah1</item>
+        <item>@drawable/rumah2</item>
+        <item>@drawable/rumah3</item>
+        <item>@drawable/rumah4</item>
+        <item>@drawable/rumah5</item>
+        <item>@drawable/rumah6</item>
+        <item>@drawable/rumah7</item>
+        <item>@drawable/rumah8</item>
+        <item>@drawable/rumah9</item>
+        <item>@drawable/rumah10</item>
+    </integer-array>
+</resources>
